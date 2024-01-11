@@ -1,16 +1,31 @@
-### Hi there 👋
+## Focus Stack:
 
-<!--
-**Karlstens/Karlstens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://karlhosking.dev/#focus">
+    <img src="https://skillicons.dev/icons?i=nodejs,js,express,dotnet,git,postman,powershell,vite,vscode&perline=3&theme=dark" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## Fun Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://karlhosking.dev/#fun">
+    <img src="https://skillicons.dev/icons?i=ableton,gamemakerstudio&perline=3&theme=dark" />
+  </a>
+</p>
+
+## FAAFO Stack
+
+<p align="left">
+  <a href="https://karlhosking.dev/#wip">
+    <img src="https://skillicons.dev/icons?i=electron,vue&perline=3&theme=dark" />
+  </a>
+</p>
+
+## Find Me Stack
+
+<p align="left">
+  <a href="https://karlhosking.dev/#contact">
+    <img src="https://skillicons.dev/icons?i=linkedin,mastodon&perline=3&theme=dark" />
+  </a>
+</p>
