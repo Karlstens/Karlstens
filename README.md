@@ -8,11 +8,15 @@
 
 ## Fun Stack:
 
-<p align="left">
-  <a href="https://karlhosking.dev/#fun">
-    <img src="https://skillicons.dev/icons?i=ableton,gamemakerstudio&perline=3&theme=dark" />
+<span align="left">
+  <a href="https://ableton.com">
+    <img src="https://skillicons.dev/icons?i=ableton&theme=dark"/>
   </a>
-</p>
+  <a href="https://forum.gamemaker.io/index.php?members/karlstens.17662/">
+    <img src="https://skillicons.dev/icons?i=gamemakerstudio&theme=dark"/>
+  </a>
+</span>
+
 
 ## FAAFO Stack
 
@@ -25,7 +29,11 @@
 ## Find Me Stack
 
 <p align="left">
-  <a href="https://karlhosking.dev/#contact">
-    <img src="https://skillicons.dev/icons?i=linkedin,mastodon&perline=3&theme=dark" />
+  <a href="https://www.linkedin.com/in/karlhosking/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a> 
+  <a href="[https://mastodon.social](https://mastodon.gamedev.place/@Karlstens)">
+    <img src="https://skillicons.dev/icons?i=mastodon&theme=dark" />
   </a>
 </p>
+
