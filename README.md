@@ -22,7 +22,7 @@
 
 <p align="left">
   <a href="https://karlhosking.dev/#wip">
-    <img src="https://skillicons.dev/icons?i=electron,vue&perline=3&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=electron,vue,nuxt&perline=3&theme=dark" />
   </a>
 </p>
 
